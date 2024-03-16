@@ -10,8 +10,8 @@
 
 |      | 标题                                                         | 进度   |
 | :--- | ------------------------------------------------------------ | ------ |
-| 1    | [DNN]([DeepLearning/DNN at main · AnXinrui/DeepLearning (github.com)](https://github.com/AnXinrui/DeepLearning/tree/main/DNN)) | 已完成 |
-| 2    | [用TensorFlow构建识别MNIST数字神经网络模型]([DeepLearning/mnist at main · AnXinrui/DeepLearning (github.com)](https://github.com/AnXinrui/DeepLearning/tree/main/mnist)) | 已完成 |
+| 1    | [DNN](https://github.com/AnXinrui/DeepLearning/tree/main/DNN) | 已完成 |
+| 2    | [用TensorFlow构建识别MNIST数字神经网络模型](https://github.com/AnXinrui/DeepLearning/tree/main/mnist) | 已完成 |
 | 3    | CNN                                                          | 未完成 |
 | 4    | Self-Attention                                               | 未完成 |
 
