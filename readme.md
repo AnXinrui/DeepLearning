@@ -12,6 +12,8 @@
 | :--- | ------------------------------------------------------------ | ------ |
 | 1    | [DNN](https://github.com/AnXinrui/DeepLearning/tree/main/DNN) | 已完成 |
 | 2    | [用TensorFlow构建识别MNIST数字神经网络模型](https://github.com/AnXinrui/DeepLearning/tree/main/mnist) | 已完成 |
-| 3    | CNN                                                          | 未完成 |
-| 4    | Self-Attention                                               | 未完成 |
+| 3    | 零框架实现线性神经网络                                       | 已完成 |
+| 4    | 线性神经网络简洁实现                                         | 已完成 |
+|      | 零框架实现 softmax                                           |        |
+|      | softmax 简洁实现                                             |        |
 
